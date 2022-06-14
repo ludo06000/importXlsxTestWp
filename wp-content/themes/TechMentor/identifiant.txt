@@ -1,0 +1,5 @@
+# Identifiant : administrateur
+
+# Mdp : admin
+
+# Email : admnistrateur@test.fr
