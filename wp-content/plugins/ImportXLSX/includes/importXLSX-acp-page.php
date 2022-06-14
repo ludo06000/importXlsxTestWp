@@ -1,6 +1,6 @@
 <?php get_header() ?>
 <div class="wrap">
-    <form action="includes/functionImport.php" method="post" enctype="multipart/form-data" >
+    <form action="functionImport.php" method="post" enctype="multipart/form-data" >
             <input type="file" name="file" id="file" />
             <input type="submit" name="submitBtn" value="Import">
     </form>
